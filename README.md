@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @JhonOspina1
-- 👀 I’m interested in learn programming
+- 👋 hola, soy Jhon  Ospina.
+- 👀 Estoy interesado en aprender sobre programacion.
+- Soy estudiante de la universidad EAN.
+- me apasionan los videojuegos.
