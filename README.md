@@ -1,4 +1,4 @@
 - 👋 hola, soy Jhon  Ospina.
 - 👀 Estoy interesado en aprender sobre programacion.
 - Soy estudiante de la universidad EAN.
-- me apasionan los videojuegos.
+- Me apasionan los videojuegos.
